@@ -1,11 +1,6 @@
-# Java 13 base project
+# Java 17 base project
 
 To compile
 ```
 ./gradlew build
-```
-
-To run
-```
-./gradlew bootRun
 ```
