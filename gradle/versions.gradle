@@ -1,5 +1,5 @@
 ext {
     projectVersion = "dev"
-    springBootVersion = "2.2.6.RELEASE"
-    springDependencyManagement = "1.0.9.RELEASE"
+    springBootVersion = "2.6.3"
+    springDependencyManagement = "1.0.11.RELEASE"
 }

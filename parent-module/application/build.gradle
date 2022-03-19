@@ -1,0 +1,8 @@
+plugins {
+
+}
+
+dependencies {
+    implementation project(':parent-module:domain')
+    implementation project(':parent-module:infrastructure')
+}

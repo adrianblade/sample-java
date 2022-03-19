@@ -1,3 +1,4 @@
-rootProject.name = 'sample-java-13'
-include "model"
-include "server"
+rootProject.name = 'template-java'
+include "parent-module:domain"
+include "parent-module:application"
+include "parent-module:infrastructure"
