@@ -1,4 +1,4 @@
-# Java 17 base project
+# Java 21 base project
 
 To compile
 ```
